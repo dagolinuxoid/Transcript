@@ -12,33 +12,27 @@ body {
 
 em {
 	color: #DEDEDE;
-	margin: 37px 0px 70px 10px;
 }
 
 h1 {
 	color: white; 
-	font-family: "Open Sans";
-	font-size: 26px;
-	margin: 37px 0px 70px 10px;
-	font-weight: bold;
+	font: bold 26px "Open Sans", sans-serif;
+	margin: 37px 0px 70px 20px;
 }
 
 h1 a {
 	color: white; 
-	font-family: "Open Sans";
-	font-size: 26px;
-	margin: 37px 0px 70px 10px;
-	font-weight: bold;
+	font: bold 26px "Open Sans", sans-serif;
 }
 
 h2.directhome {
-    font: normal 14px "Liberation Sans", "Open Sans", "Arial", sans-serif;
+    font: normal 14px "Liberation Sans", "Open Sans", sans-serif;
 	color: white;
 	text-align: center;
 }
 
 p {
-	font-family:"ubuntu mono","Liberation Sans","serif";  
+	font-family:"ubuntu mono", "Liberation Sans", serif;  
 	color:#4D4E53;
 	line-height: 130%;
 	text-align: right;

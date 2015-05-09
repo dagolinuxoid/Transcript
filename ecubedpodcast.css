@@ -10,23 +10,17 @@ body {
 
 em {
 	color: #DEDEDE;
-	margin: 37px 0px 70px 10px;
 }
 
 h1 {
 	color: white; 
-	font-family: "Open Sans";
-	font-size: 26px;
-	margin: 37px 0px 70px 10px;
-	font-weight: bold;
+	font: bold 26px "Open Sans", sans-serif;
+	margin: 37px 0px 70px 20px;
 }
 
 h1 a {
-	color: white; 
-	font-family: "Open Sans";
-	font-size: 26px;
-	margin: 37px 0px 70px 10px;
-	font-weight: bold;
+	color: white;
+	font: bold 26px "Open Sans", sans-serif; 
 }
 
 h2 {
@@ -47,7 +41,7 @@ p.dialogue {
 a {
 	color: #4D4E53;
 	text-decoration: none;
-	font: 16px "ubuntu mono";
+	font: 16px "ubuntu mono", serif;
 }
 
 a:hover {

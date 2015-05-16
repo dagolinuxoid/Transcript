@@ -30,6 +30,8 @@ h2 {
 }
 p {
 	text-align: justify;
+	max-width: 900px;
+	margin: 10px auto;
 }
 
 p.dialogue {
